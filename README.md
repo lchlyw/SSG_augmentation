@@ -1,2 +1,2 @@
 # SSG_augmentation
-Augmenting problem-specific dataset
+Augmenting a problem-specific dataset using machine learning based system
